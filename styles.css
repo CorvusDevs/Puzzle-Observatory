@@ -14,12 +14,16 @@
 
 * { box-sizing: border-box; }
 
+/* ac-no-horizontal-scroll v1 */
+html, body { overflow-x: clip; max-width: 100%; }
+img, video, iframe { max-width: 100%; height: auto; }
+pre, table { max-width: 100%; overflow-x: auto; }
 html { scroll-behavior: smooth; }
 
 body {
   margin: 0;
   min-width: 320px;
-  overflow-x: hidden; /* ac-no-horizontal-scroll v1 */
+  overflow-x: clip;
   color: var(--navy);
   background:
     radial-gradient(circle at 8% 4%, rgba(253, 180, 12, 0.18), transparent 26rem),
