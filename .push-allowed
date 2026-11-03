@@ -1,0 +1,17 @@
+# Public website files only. Native app sources are excluded.
+.push-allowed
+.nojekyll
+README.md
+index.html
+privacy.html
+changelog.html
+support.html
+site.js
+styles.css
+icon.png
+docs/**
+gallery.css
+gallery.js
+gallery.json
+product-data.json
+assets/gallery/**

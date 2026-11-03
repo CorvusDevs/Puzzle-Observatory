@@ -1,0 +1,25 @@
+{
+  "slug": "Puzzle-Observatory",
+  "name": "Puzzle Observatory",
+  "appStoreId": 6809021090,
+  "version": "1.0.4",
+  "releaseDate": "2026-10-31T23:58:38Z",
+  "originalReleaseDate": "2026-10-31T07:00:00Z",
+  "platforms": [
+    "macOS",
+    "iPhone",
+    "iPad"
+  ],
+  "requirements": {
+    "macOS": "15.0",
+    "iOS": "18.0",
+    "iPadOS": "18.0"
+  },
+  "store": {
+    "kind": "app-store",
+    "label": "App Store",
+    "url": "https://apps.apple.com/app/id6809021090"
+  },
+  "metadataSource": "https://itunes.apple.com/lookup?id=6809021090&country=us",
+  "sourceCatalog": "https://corvusdevs.github.io/apps.json"
+}

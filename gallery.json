@@ -1,0 +1,66 @@
+{
+  "appStoreId": 6809021090,
+  "sourcePage": "https://apps.apple.com/us/app/puzzle-observatory/id6809021090?uo=4",
+  "items": [
+    {
+      "platform": "Mac",
+      "description": "Today and the Daily Signal",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7f/78/b5/7f78b523-ea0e-1bbf-f691-c3cc8fc9d7d3/01-today_framed.png/2560x1600bb.jpg",
+      "sourceWidth": 2560,
+      "sourceHeight": 1600,
+      "asset": "assets/gallery/mac-1.jpg",
+      "width": 1440,
+      "height": 900,
+      "bytes": 95896,
+      "sha256": "fe2be631ee193fce6fdca2b3bd14225dfa5e96bff50674ed23f6c931edb1c2c3"
+    },
+    {
+      "platform": "Mac",
+      "description": "Orbit puzzle",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/36/f7/7236f7e9-8ca2-8b0f-4713-443caf578564/03-orbit_framed.png/2560x1600bb.jpg",
+      "sourceWidth": 2560,
+      "sourceHeight": 1600,
+      "asset": "assets/gallery/mac-3.jpg",
+      "width": 1440,
+      "height": 900,
+      "bytes": 76867,
+      "sha256": "80f6359fc8601e07389cc0760427cb1da9c56d8a8c2dcd5850a36b9f83a62fe0"
+    },
+    {
+      "platform": "iPhone",
+      "description": "Quick Grid on iPhone",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/f0/5b/c6f05b7b-3ea6-ef1f-114e-6c7d38c6f5c9/02-quick-grid_framed.png/1206x2622bb.jpg",
+      "sourceWidth": 1206,
+      "sourceHeight": 2622,
+      "asset": "assets/gallery/phone-2.jpg",
+      "width": 662,
+      "height": 1440,
+      "bytes": 70148,
+      "sha256": "3162c76f85891990fe96836437890bffd165e6cbaa977c034e5c3e76173d5115"
+    },
+    {
+      "platform": "iPad",
+      "description": "Threads on iPad",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/03/b4/2203b4d9-470e-5191-6237-d66229273c37/05-threads_framed.png/2732x2048bb.jpg",
+      "sourceWidth": 2732,
+      "sourceHeight": 2048,
+      "asset": "assets/gallery/pad-5.jpg",
+      "width": 1440,
+      "height": 1079,
+      "bytes": 79981,
+      "sha256": "eadddc3e3f2653e6b9df95e8e22eab38f960af149b217d65967956770624bcb0"
+    },
+    {
+      "platform": "iPad",
+      "description": "Trail on iPad",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/9e/96/5b9e96cc-a3ac-494f-e263-b9c98b247249/06-trail_framed.png/2732x2048bb.jpg",
+      "sourceWidth": 2732,
+      "sourceHeight": 2048,
+      "asset": "assets/gallery/pad-6.jpg",
+      "width": 1440,
+      "height": 1079,
+      "bytes": 69464,
+      "sha256": "0b10159253356c9f4f743674d70883a808625c6509d00a1cd01508c529229150"
+    }
+  ]
+}
